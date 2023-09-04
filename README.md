@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rioalbert81@gmail.com**
 
-- ⚡ Fun fact **Love is blind**
+- ⚡ Fun fact **Think Big Trust Yourself...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
