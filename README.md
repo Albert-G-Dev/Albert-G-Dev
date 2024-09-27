@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albert G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a  Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albert-g-dev&label=Profile%20views&color=0e75b6&style=flat" alt="albert-g-dev" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ASP.net**
 
 - 📫 How to reach me **rioalbert81@gmail.com**
 
